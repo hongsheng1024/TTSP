@@ -16,6 +16,7 @@
 		064A0D80256671E500E6C758 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0D7F256671E500E6C758 /* main.m */; };
 		064A0D8A256671E500E6C758 /* TTSPTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0D89256671E500E6C758 /* TTSPTests.m */; };
 		064A0D95256671E500E6C758 /* TTSPUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0D94256671E500E6C758 /* TTSPUITests.m */; };
+		064A0DA425667BF900E6C758 /* YYSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0DA325667BF900E6C758 /* YYSViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		064A0D90256671E500E6C758 /* TTSPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTSPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		064A0D94256671E500E6C758 /* TTSPUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TTSPUITests.m; sourceTree = "<group>"; };
 		064A0D96256671E500E6C758 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		064A0DA225667BF900E6C758 /* YYSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYSViewController.h; sourceTree = "<group>"; };
+		064A0DA325667BF900E6C758 /* YYSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YYSViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				064A0D71256671E400E6C758 /* SceneDelegate.m */,
 				064A0D73256671E400E6C758 /* ViewController.h */,
 				064A0D74256671E400E6C758 /* ViewController.m */,
+				064A0DA225667BF900E6C758 /* YYSViewController.h */,
+				064A0DA325667BF900E6C758 /* YYSViewController.m */,
 				064A0D76256671E400E6C758 /* Main.storyboard */,
 				064A0D79256671E500E6C758 /* Assets.xcassets */,
 				064A0D7B256671E500E6C758 /* LaunchScreen.storyboard */,
@@ -269,6 +274,7 @@
 			files = (
 				064A0D75256671E400E6C758 /* ViewController.m in Sources */,
 				064A0D6F256671E400E6C758 /* AppDelegate.m in Sources */,
+				064A0DA425667BF900E6C758 /* YYSViewController.m in Sources */,
 				064A0D80256671E500E6C758 /* main.m in Sources */,
 				064A0D72256671E400E6C758 /* SceneDelegate.m in Sources */,
 			);
