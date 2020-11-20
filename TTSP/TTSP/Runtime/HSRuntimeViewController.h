@@ -6,11 +6,11 @@
 //  Copyright © 2020 whs. All rights reserved.
 //
 
-#import "BaseViewController.h"
+#import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HSRuntimeViewController : BaseViewController
+@interface HSRuntimeViewController : UIViewController
 
 @end
 
