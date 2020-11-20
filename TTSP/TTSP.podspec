@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "王s" => "2595795602@qq.com" }
 
   spec.source       = { :git => "https://github.com/hongsheng1024/TTSP.git", :tag => "#{spec.version}" }
-  spec.source_files  = "TTSP/YYSViewController.{h,m}"
+  spec.source_files  = "TTSP/Runtime/*.{h,m}"
 
 
 
