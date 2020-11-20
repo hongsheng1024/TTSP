@@ -21,7 +21,6 @@
 		064A0DB12567548800E6C758 /* RuntimeObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0DA82567548800E6C758 /* RuntimeObject.m */; };
 		064A0DB22567548800E6C758 /* HSMobile.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0DAB2567548800E6C758 /* HSMobile.m */; };
 		064A0DB32567548800E6C758 /* HSPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0DAE2567548800E6C758 /* HSPhone.m */; };
-		064A0DB42567548800E6C758 /* HSRuntimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 064A0DAF2567548800E6C758 /* HSRuntimeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,13 +64,11 @@
 		064A0DA62567548800E6C758 /* HSMobile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSMobile.h; sourceTree = "<group>"; };
 		064A0DA72567548800E6C758 /* HSMobile+Test1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "HSMobile+Test1.m"; sourceTree = "<group>"; };
 		064A0DA82567548800E6C758 /* RuntimeObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RuntimeObject.m; sourceTree = "<group>"; };
-		064A0DA92567548800E6C758 /* HSRuntimeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSRuntimeViewController.h; sourceTree = "<group>"; };
 		064A0DAA2567548800E6C758 /* HSPhone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSPhone.h; sourceTree = "<group>"; };
 		064A0DAB2567548800E6C758 /* HSMobile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSMobile.m; sourceTree = "<group>"; };
 		064A0DAC2567548800E6C758 /* HSMobile+Test1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "HSMobile+Test1.h"; sourceTree = "<group>"; };
 		064A0DAD2567548800E6C758 /* RuntimeObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RuntimeObject.h; sourceTree = "<group>"; };
 		064A0DAE2567548800E6C758 /* HSPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSPhone.m; sourceTree = "<group>"; };
-		064A0DAF2567548800E6C758 /* HSRuntimeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSRuntimeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,13 +161,11 @@
 				064A0DA62567548800E6C758 /* HSMobile.h */,
 				064A0DA72567548800E6C758 /* HSMobile+Test1.m */,
 				064A0DA82567548800E6C758 /* RuntimeObject.m */,
-				064A0DA92567548800E6C758 /* HSRuntimeViewController.h */,
 				064A0DAA2567548800E6C758 /* HSPhone.h */,
 				064A0DAB2567548800E6C758 /* HSMobile.m */,
 				064A0DAC2567548800E6C758 /* HSMobile+Test1.h */,
 				064A0DAD2567548800E6C758 /* RuntimeObject.h */,
 				064A0DAE2567548800E6C758 /* HSPhone.m */,
-				064A0DAF2567548800E6C758 /* HSRuntimeViewController.m */,
 			);
 			path = Runtime;
 			sourceTree = "<group>";
@@ -309,7 +304,6 @@
 				064A0D75256671E400E6C758 /* ViewController.m in Sources */,
 				064A0D6F256671E400E6C758 /* AppDelegate.m in Sources */,
 				064A0DA425667BF900E6C758 /* YYSViewController.m in Sources */,
-				064A0DB42567548800E6C758 /* HSRuntimeViewController.m in Sources */,
 				064A0D80256671E500E6C758 /* main.m in Sources */,
 				064A0DB02567548800E6C758 /* HSMobile+Test1.m in Sources */,
 				064A0DB32567548800E6C758 /* HSPhone.m in Sources */,
